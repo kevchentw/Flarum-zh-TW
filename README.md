@@ -1,5 +1,5 @@
 # Flarum-zh-TW
-Flarum 繁體中文/Traditional Chinese Language Pack
+[Flarum](http://flarum.org) 繁體中文/Traditional Chinese Language Pack  
 
 ## Usage 使用方法
 
@@ -13,10 +13,16 @@ Pull request is welcome. If you think want to fix bugs or add more language pack
 
 ## Translation 翻譯
 
-#### 核心文字:待確認之翻譯
+#### 核心文字
+##### 1.待確認之翻譯
 
 * post -> 貼文
 * discussion -> 話題
+
+##### 2.未翻譯之文字
+
+* mod
+* activity
 
 ## License 授權
 
