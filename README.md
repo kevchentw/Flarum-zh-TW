@@ -3,8 +3,8 @@
 
 ## Usage 使用方法
 
-覆蓋原目錄即可  
-Move all things into Flarum Folder
+覆蓋原目錄，將全部`tw.yml`重新命名至`en.yml`，重新啟動 Flarum
+Move all things into Flarum Folder, rename all `tw.yml` into `en.yml`, restart flarum
 
 ## Contributing 貢獻
 
