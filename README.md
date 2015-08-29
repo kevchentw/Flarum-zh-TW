@@ -1,6 +1,27 @@
 # Flarum-zh-TW
 [Flarum](http://flarum.org) 繁體中文/Traditional Chinese Language Pack  
 
+## Insall Flarum 安裝Flarum
+
+### Beta
+
+[Install Guide](http://flarum.org/docs/installation/)
+
+### Development Version
+
+- Install Vagrant and VirtualBox.
+- Clone the flarum/flarum repository and set up the Vagrant box:
+
+```
+$ git clone --recursive https://github.com/flarum/flarum.git
+$ cd flarum
+$ vagrant up
+```
+- Add an entry to your /etc/hosts file: 192.168.29.29 flarum.dev
+- Visit flarum.dev in a browser.
+
+
+
 ## Usage 使用方法
 
 覆蓋原目錄，將全部`tw.yml`重新命名至`en.yml`，重新啟動 Flarum
